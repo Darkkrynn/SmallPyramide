@@ -20,6 +20,13 @@ Linux: Si cela vous interesse, demandez-moi et je vous prépare l'application
 2.0.0  Ajout d'une nouvelle interface et de nouvelle forme. Correction de bug.
 1.0.0  Que la forme pyramidale
 
+## Roadmap
+###version 2.0.0
+[x] Ajout de diverses formes
+[x] Nouvelle interface
+[x] Site web
+
+
 ## Licence et tarif
 C'est gratuit.
 Toutes aide est la bienvenue
