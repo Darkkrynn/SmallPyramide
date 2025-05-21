@@ -22,9 +22,12 @@ Linux: Si cela vous interesse, demandez-moi et je vous prépare l'application
 
 ## Roadmap
 ###version 2.0.0
-[x] Ajout de diverses formes
-[x] Nouvelle interface
-[x] Site web
+- [x] Ajout de diverses formes
+- [x] Nouvelle interface
+- [x] Site web
+
+###version 1.0.0
+- [x] Pyramide et export fichier XYZ
 
 
 ## Licence et tarif
