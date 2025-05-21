@@ -5,6 +5,13 @@ Cela permet d'ajouter un élément de contrôle dans les fichiers Recap ou autre
 
 ## Capture d'écran
 
+![2025-05-22_00h35_37](https://github.com/user-attachments/assets/f2afa6d8-a950-42fa-88cf-ade1f3cd1341)
+Aspect de l'interface
+![2025-05-22_00h36_24](https://github.com/user-attachments/assets/30eb7636-9938-4984-8aa0-6c66de723e8f)
+Aspect de la pyramide de points dans Recap
+![2025-05-22_00h42_20](https://github.com/user-attachments/assets/bc86ff27-7a0b-4d1d-a924-e57fe0588a54)
+
+
 
 ## Telechargement
 Windows:
@@ -21,12 +28,13 @@ Linux: Si cela vous interesse, demandez-moi et je vous prépare l'application
 1.0.0  Que la forme pyramidale
 
 ## Roadmap
-###version 2.0.0
+### version 2.0.0
 - [x] Ajout de diverses formes
 - [x] Nouvelle interface
-- [x] Site web
+- [x] Création d'icon pour l'application
+- [x] Site web (Github)
 
-###version 1.0.0
+### version 1.0.0
 - [x] Pyramide et export fichier XYZ
 
 
