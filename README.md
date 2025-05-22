@@ -36,18 +36,21 @@ Linux: Si cela vous interesse, demandez-moi et je vous prépare l'application
 
 
 ## Historique
-2.0.0  Ajout d'une nouvelle interface et de nouvelle forme. Correction de bug.
-1.0.0  Que la forme pyramidale
+2.0.1 Correction de bug.
+- [x] Supprimer les espaces et ' dans les champs
+- [x] Correction du chemin des images
 
-## Roadmap
-### version 2.0.0
+2.0.0  Ajout d'une nouvelle interface et de nouvelle forme. Correction de bug.
 - [x] Ajout de diverses formes
 - [x] Nouvelle interface
 - [x] Création d'icon pour l'application
 - [x] Site web (Github)
 
-### version 1.0.0
+1.0.0  Que la forme pyramidale
 - [x] Pyramide et export fichier XYZ
+
+## Roadmap
+Liste des prochaines améliorarions
 
 
 ## Licence et tarif
