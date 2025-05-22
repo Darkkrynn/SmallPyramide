@@ -1,7 +1,7 @@
 # SmallPyramide
 
-![2025-05-22_00h48_48](https://github.com/user-attachments/assets/170dd05f-cfb0-445b-8656-3cb35de295f6)
 Le but est de pouvoir créer un fichier avec une forme (pyramide, cone, ...) sous forme de nuage de points.
+![2025-05-22_00h48_48](https://github.com/user-attachments/assets/170dd05f-cfb0-445b-8656-3cb35de295f6)
 Cela permet d'ajouter un élément de contrôle dans les fichiers Recap ou autre et de s'assurer que le nuage de points inserer soie toujours à la bonne place dans la maquette.
 
 ## Pourquoi
