@@ -26,7 +26,7 @@ Aspect de la pyramide de points dans Recap
 
 
 ## Telechargement
-Windows:
+Windows: https://github.com/Darkkrynn/SmallPyramide/archive/refs/tags/Windows.zip
 
 Mac:
 
