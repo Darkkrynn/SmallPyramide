@@ -24,6 +24,9 @@ Aspect de la pyramide de points dans Recap
 ![2025-05-22_00h42_20](https://github.com/user-attachments/assets/bc86ff27-7a0b-4d1d-a924-e57fe0588a54)
 
 
+## Tuto
+[Tuto SmallPyramide-2-0-0.pdf](https://github.com/user-attachments/files/20698707/Tuto.SmallPyramide-2-0-0.pdf)
+
 
 ## Telechargement
 Windows: [https://github.com/Darkkrynn/SmallPyramide/archive/refs/tags/Windows.zip](https://github.com/user-attachments/files/20400195/SmallPyramide.2.0.1.zip)
